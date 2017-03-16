@@ -11,9 +11,11 @@ public class TestCommit
 		System.out.println("Inserted Method 1");
 		System.out.println("Inserted Method 4");
         System.out.println("Inserted Method 3");
+		System.out.println("Inserted Method 3");
 		System.out.println("Inserted Method 5");
 		System.out.println("Added Method 8");
         System.out.println("Inserted Method 3");
+		System.out.println("Inserted Method 3");
 		System.out.println("Added Method 6");
 		System.out.println("Inserted Method 5");
 		System.out.println("Added Method 7");
