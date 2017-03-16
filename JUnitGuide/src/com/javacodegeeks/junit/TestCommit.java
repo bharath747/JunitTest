@@ -13,6 +13,7 @@ public class TestCommit
 		System.out.println("Inserted Method 3");
 		System.out.println("Added Method 6");
 		System.out.println("Inserted Method 5");
+		System.out.println("Added Method 7");
 	}
 
 }
