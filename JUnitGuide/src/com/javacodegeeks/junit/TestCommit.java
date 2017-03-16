@@ -7,6 +7,7 @@ public class TestCommit
 		System.out.println("Hello");
 		System.out.println("TestCommit Updated");
 		System.out.println("Test Commit Updated by Other");
+		System.out.println("Added Method 2");
 	}
 
 }
