@@ -8,5 +8,9 @@ public class Calculate {
 		System.out.println("Adding values: " + var1 + " + " + var2);
 		return var1 + var2;
 	}
+	public void print()
+	{
+		System.out.println("new Method added");
+	}
 
 }
