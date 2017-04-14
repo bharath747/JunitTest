@@ -13,6 +13,7 @@ public class Calculate {
 		System.out.println("new Method added");
 		System.out.println("new Method added1");
 		System.out.println("new Method added2");
+		System.out.println("Its Ok to add");
 	}
 
 }
