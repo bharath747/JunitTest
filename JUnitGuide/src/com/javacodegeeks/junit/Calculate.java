@@ -11,6 +11,7 @@ public class Calculate {
 	public void print()
 	{
 		System.out.println("new Method added");
+		System.out.println("new Method added1");
 	}
 
 }
