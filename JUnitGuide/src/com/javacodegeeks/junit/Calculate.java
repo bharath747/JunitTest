@@ -14,6 +14,7 @@ public class Calculate {
 		System.out.println("new Method added1");
 		System.out.println("new Method added2");
 		System.out.println("Its Ok to add");
+		System.out.println("A new line is added");
 	}
 
 }
